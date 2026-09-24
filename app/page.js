@@ -53,7 +53,7 @@ const projects = [
 const education = [
   { degree: "MA – Public Administration", school: "Bharathidasan University", year: "2022–24" },
   { degree: "BA – Public Administration", school: "Sri Chaitanya Degree College", year: "2019–22" },
-  { degree: "Python Full Stack Development", school: "QSpiders, Chrompet", year: "2023–24" },
+  // { degree: "Python Full Stack Development", school: "QSpiders, Chrompet", year: "2023–24" },
 ];
 
 const languages = ["English", "Telugu", "Tamil", "Malayalam", "Hindi"];
